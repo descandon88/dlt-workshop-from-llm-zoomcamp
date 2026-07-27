@@ -1,0 +1,4 @@
+# dev-profile-only config
+
+[destination.warehouse]
+destination_type = "duckdb"

@@ -1,0 +1,2 @@
+uvx dlthub-init@latest
+
